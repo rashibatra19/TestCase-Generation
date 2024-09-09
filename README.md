@@ -20,8 +20,9 @@ The application prompts the LLM with structured templates for generating testing
 ## Screenshots
 
 1. Upload screenshots and provide optional context.
+   Sample optional context:The app allows users to book intercity travel by selecting their journey details (source, destination, date), browsing buses, picking seats, and reviewing offers. The goal is to create a set of test cases based on screenshots to verify the correct functionality of the features.
   
-2. **Generated Instructions**: 
+3. **Generated Instructions**: 
    - View the detailed testing instructions generated based on uploaded screenshots.
    
 
